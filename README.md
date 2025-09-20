@@ -4,6 +4,7 @@ A Java &amp; MySQL-based University Management System that automates student enr
 📘 University Management System (UMS)
 A desktop-based application built with Java (Swing, JDBC) and MySQL to simplify and automate university/college workflows.
 The system handles core operations like student enrollment, faculty management, attendance tracking, fee payment, and exam records through an integrated, user-friendly interface.
+The system includes additional utilities such as Calculator and Notepad, and is designed with modularity and scalability in mind for future enhancements.
 
 🚀 Features
 🔑 Authentication System – Secure login, signup, and password recovery
